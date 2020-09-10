@@ -1,0 +1,19 @@
+{
+    "name": "coding-ninja/calculate",
+    "description": "Do some basic calculations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gurpreet Singh",
+            "email": "gurpreet/indybytes@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "Calculation\\": "src/"
+        }
+    }
+}
