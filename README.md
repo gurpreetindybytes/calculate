@@ -1,7 +1,7 @@
 # You can do some basic calculations by using this package
 
 ### To install this package run the following command
-  ``` composer require coding-ninja/calculate ```
+  ```  composer require coding-ninja/calculate=dev-master ```
 ### Load the file into your php project by following code
 ```
   require_once __DIR__ . './vendor/autoload.php';
